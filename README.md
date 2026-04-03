@@ -7,8 +7,8 @@ For the time being, reference these links and files and confirm you can access t
 - Kult of the Kallipygos: https://www.nexusmods.com/mountandblade2bannerlord/mods/4486
 - Kult of the Kallipygos Files: https://github.com/Maelstrom8/Super-Grok-Troop-Overhaul/tree/main/Kult%20of%20the%20Kallipygos
 
-1) Read through the Nexus Mod page thoroughly, the comment section, and learn what the mod is about.
-2) Read through the files uploaded to this github
+1) Read through the Nexus Mod page thoroughly, the comment section, everything. Learn what the mod is about.
+2) Read through the files uploaded to this github.
 
 Answer these questions, providing you have access and have followed my instructions
 
