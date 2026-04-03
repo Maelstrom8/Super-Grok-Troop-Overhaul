@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+	<!-- Vanilla/RBM Balance -->
+	<!-- 
+	Lances 
+	-->
+	<CraftedItem id="AR_aserai_lance_1_t3" name="{=osa_ar_aserai_lance_1_t3}Southern Light Lance" crafting_template="TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_3" Type="Blade" scale_factor="109"/>
+			<Piece id="spear_guard_11" Type="Guard"/>
+			<Piece id="spear_handle_24" Type="Handle" scale_factor="115"/>
+			<Piece id="spear_pommel_10" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 370 Weight: 3.23 -->
+	</CraftedItem>
+	<CraftedItem id="AR_aserai_lance_2_t4" name="{=osa_ar_aserai_lance_2_t4}Southern Lance" crafting_template="TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_1" Type="Blade" scale_factor="129"/>
+			<Piece id="spear_guard_11" Type="Guard"/>
+			<Piece id="spear_handle_24" Type="Handle" scale_factor="115"/>
+			<Piece id="spear_pommel_10" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 370 Weight: 3.17 -->
+	</CraftedItem>
+	<CraftedItem id="AR_aserai_lance_5_t5" name="{=osa_ar_aserai_lance_5_t5}Southern Thamaskene Steel Lance" crafting_template="TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_42" Type="Blade" scale_factor="147"/>
+			<Piece id="spear_guard_11" Type="Guard"/>
+			<Piece id="spear_handle_24" Type="Handle" scale_factor="115"/>
+			<Piece id="spear_pommel_11" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 370 Weight: 3.1 -->
+	</CraftedItem>
+	<CraftedItem id="AR_empire_lance_4_t5" name="{=osa_ar_empire_lance_4_t5}Imperial Thamaskene Steel Lance" crafting_template="TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_4" Type="Blade" scale_factor="90"/>
+			<Piece id="spear_banner_1" Type="Guard" scale_factor="96"/>
+			<Piece id="AR_spear_handle_b" Type="Handle" scale_factor="95"/>
+			<Piece id="AR_spear_pommel_b" Type="Pommel" scale_factor="90"/>
+		</Pieces>
+		<!-- Length: 370 Weight: 2.08 -->
+	</CraftedItem>
+	<CraftedItem id="AR_northern_lance_t3" name="{=osa_ar_northern_lance_t3}Northern Light Lance" crafting_template="TwoHandedPolearm" culture="Culture.sturgia" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_15" Type="Blade" scale_factor="145"/>
+			<Piece id="spear_guard_2" Type="Guard" scale_factor="110"/>
+			<Piece id="spear_handle_17" Type="Handle" scale_factor="136"/>
+			<Piece id="spear_pommel_10" Type="Pommel" scale_factor="110"/>
+		</Pieces>
+		<!-- Length: 298 Weight: 3.14 -->
+	</CraftedItem>
+	<!-- 
+	Cutting Polearms
+	-->
+	<CraftedItem id="AR_khuzait_polearm_1_t3" name="{=osa_ar_khuzait_polearm_1_t3}Light Glaive" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_19" Type="Blade" scale_factor="90"/>
+			<Piece id="spear_guard_15" Type="Guard" scale_factor="110"/>
+			<Piece id="spear_handle_5" Type="Handle" scale_factor="77"/>
+			<Piece id="spear_pommel_6" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 213 Weight: 0.85 -->
+	</CraftedItem>
+	<CraftedItem id="AR_billhook_1_t2" name="{=osa_ar_billhook_1_t2}Crude Billhook" crafting_template="TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
+		<Pieces>
+			<Piece id="AR_billhook_blade_a" Type="Blade" scale_factor="102"/>
+			<Piece id="default_polearm_guard" Type="Guard"/>
+			<Piece id="spear_handle_1" Type="Handle" scale_factor="110"/>
+			<Piece id="default_polearm_pommel" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 200 Weight: 0.99 -->
+	</CraftedItem>
+	<!-- 
+	Spears - Short Length
+	-->
+	<CraftedItem id="AR_crude_spear_1_t2" name="{=osa_ar_crude_spear_1_t2}Crude Wooden Spear" crafting_template="TwoHandedPolearm" culture="Culture.neutral" modifier_group="polearm">
+		<Pieces>
+			<Piece id="AR_spear_blade_d" Type="Blade" scale_factor="105"/>
+			<Piece id="default_polearm_guard" Type="Guard"/>
+			<Piece id="AR_SI_spear_handle_c" Type="Handle" scale_factor="109"/>
+			<Piece id="default_polearm_pommel" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 1.53 -->
+	</CraftedItem>
+	<CraftedItem id="AR_crude_spear_2_t2" name="{=osa_ar_crude_spear_2_t2}Crude Spear" crafting_template="TwoHandedPolearm" culture="Culture.neutral" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_15" Type="Blade" scale_factor="90"/>
+			<Piece id="default_polearm_guard" Type="Guard"/>
+			<Piece id="AR_spear_handle_a" Type="Handle" scale_factor="110"/>
+			<Piece id="default_polearm_pommel" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 125 Weight: 0.81 -->
+	</CraftedItem>
+	<CraftedItem id="AR_aserai_short_spear_1_t2" name="{=osa_ar_aserai_short_spear_1_t2}Southern Short Jagged Spear" crafting_template="TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_36" Type="Blade" scale_factor="90"/>
+			<Piece id="spear_guard_9" Type="Guard" scale_factor="103"/>
+			<Piece id="spear_handle_3" Type="Handle" scale_factor="80"/>
+			<Piece id="spear_pommel_9" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 0.61 -->
+	</CraftedItem>
+	<CraftedItem id="AR_aserai_short_spear_2_t3" name="{=osa_ar_aserai_short_spear_2_t3}Southern Short Fine Steel Jagged Spear" crafting_template="TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_36" Type="Blade" scale_factor="110"/>
+			<Piece id="spear_guard_9" Type="Guard"/>
+			<Piece id="spear_handle_1" Type="Handle" scale_factor="91"/>
+			<Piece id="spear_pommel_11" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 0.75 -->
+	</CraftedItem>
+	<CraftedItem id="AR_aserai_short_spear_3_t4" name="{=osa_ar_aserai_short_spear_3_t4}Southern Short Thamaskene Steel Jagged Spear" crafting_template="TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_35" Type="Blade"/>
+			<Piece id="spear_guard_19" Type="Guard"/>
+			<Piece id="spear_handle_20" Type="Handle" scale_factor="66"/>
+			<Piece id="spear_pommel_11" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 1.37 -->
+	</CraftedItem>
+	<CraftedItem id="AR_battania_spear_1_t2" name="{=osa_ar_battania_spear_1_t2}Highland Short Spear" crafting_template="TwoHandedPolearm" culture="Culture.battania" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_15" Type="Blade" scale_factor="164"/>
+			<Piece id="spear_guard_16" Type="Guard" scale_factor="106"/>
+			<Piece id="AR_SI_spear_handle_d" Type="Handle" scale_factor="65"/>
+			<Piece id="spear_pommel_9" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 1.46 -->
+	</CraftedItem>
+	<CraftedItem id="AR_battania_spear_2_t3" name="{=osa_ar_battania_spear_2_t3}Highland Short Weighted Spear" crafting_template="TwoHandedPolearm" culture="Culture.battania" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_42" Type="Blade" scale_factor="95"/>
+			<Piece id="spear_guard_19" Type="Guard"/>
+			<Piece id="AR_SI_spear_handle_d" Type="Handle" scale_factor="64"/>
+			<Piece id="spear_pommel_5" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 1.32 -->
+	</CraftedItem>
+	<CraftedItem id="AR_battania_spear_4_t4" name="{=osa_ar_battania_spear_4_t4}Highland Short Fine Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.battania" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_20" Type="Blade" scale_factor="90"/>
+			<Piece id="spear_guard_20" Type="Guard"/>
+			<Piece id="AR_SI_spear_handle_d" Type="Handle" scale_factor="63"/>
+			<Piece id="spear_pommel_9" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 1.39 -->
+	</CraftedItem>
+	<CraftedItem id="AR_battania_spear_5_t4" name="{=osa_ar_battania_spear_5_t4}Highland Short Fine Steel Leaf Spear" crafting_template="TwoHandedPolearm" culture="Culture.battania" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_20" Type="Blade" scale_factor="92"/>
+			<Piece id="spear_banner_16" Type="Guard" scale_factor="101"/>
+			<Piece id="AR_SI_spear_handle_d" Type="Handle" scale_factor="61"/>
+			<Piece id="spear_pommel_9" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 1.37 -->
+	</CraftedItem>
+	<CraftedItem id="AR_darshi_short_spear_1_t2" name="{=osa_ar_darshi_short_spear_1_t2}Darshi Short Iron Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_1" Type="Blade" scale_factor="96"/>
+			<Piece id="spear_guard_2" Type="Guard"/>
+			<Piece id="AR_SI_spear_handle_c" Type="Handle" scale_factor="90"/>
+			<Piece id="spear_pommel_9" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 1.4 -->
+	</CraftedItem>
+	<CraftedItem id="AR_darshi_short_spear_2_t3" name="{=osa_ar_darshi_short_spear_2_t3}Darshi Short Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_1" Type="Blade" scale_factor="110"/>
+			<Piece id="spear_guard_9" Type="Guard"/>
+			<Piece id="spear_handle_1" Type="Handle" scale_factor="87"/>
+			<Piece id="spear_pommel_9" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 0.81 -->
+	</CraftedItem>
+	<CraftedItem id="AR_darshi_short_spear_3_t4" name="{=osa_ar_darshi_short_spear_3_t4}Darshi Short Fine Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_2" Type="Blade"/>
+			<Piece id="spear_guard_13" Type="Guard" scale_factor="96"/>
+			<Piece id="spear_handle_20" Type="Handle" scale_factor="58"/>
+			<Piece id="spear_pommel_11" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 1.33 -->
+	</CraftedItem>
+	<CraftedItem id="AR_darshi_short_spear_4_t5" name="{=osa_ar_darshi_short_spear_4_t5}Darshi Short Thamaskene Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_2" Type="Blade"/>
+			<Piece id="spear_guard_12" Type="Guard" scale_factor="90"/>
+			<Piece id="spear_handle_20" Type="Handle" scale_factor="57"/>
+			<Piece id="spear_pommel_11" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 1.31 -->
+	</CraftedItem>
+	<CraftedItem id="AR_darshi_short_spear_5_t5" name="{=osa_ar_darshi_short_spear_5_t5}Darshi Short Thamaskene Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_2" Type="Blade"/>
+			<Piece id="spear_banner_10" Type="Guard" scale_factor="92"/>
+			<Piece id="spear_handle_20" Type="Handle" scale_factor="58"/>
+			<Piece id="spear_pommel_11" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 1.33 -->
+	</CraftedItem>
+	<!-- 
+	Spears - Normal Length
+	-->
+	<CraftedItem id="AR_southern_spear_1_t2" name="{=osa_ar_southern_spear_1_t2}Southern Crude Jagged Spear" crafting_template="TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_36" Type="Blade" scale_factor="110"/>
+			<Piece id="spear_guard_15" Type="Guard" scale_factor="110"/>
+			<Piece id="spear_handle_3" Type="Handle" scale_factor="108"/>
+			<Piece id="spear_pommel_8" Type="Pommel" scale_factor="102"/>
+		</Pieces>
+		<!-- Length: 243 Weight: 0.8 -->
+	</CraftedItem>
+	<CraftedItem id="AR_southern_spear_1_t4" name="{=osa_ar_southern_spear_1_t4}Southern Fine Steel Jagged Spear" crafting_template="TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_35" Type="Blade" scale_factor="110"/>
+			<Piece id="spear_banner_18" Type="Guard" scale_factor="80"/>
+			<Piece id="spear_handle_20" Type="Handle" scale_factor="70"/>
+			<Piece id="spear_pommel_11" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 243 Weight: 1.46 -->
+	</CraftedItem>
+	<CraftedItem id="AR_darshi_spear_1_t2" name="{=osa_ar_darshi_spear_1_t2}Darshi Simple Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_1" Type="Blade" scale_factor="93"/>
+			<Piece id="spear_guard_2" Type="Guard"/>
+			<Piece id="AR_SI_spear_handle_d" Type="Handle" scale_factor="84"/>
+			<Piece id="spear_pommel_6" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 243 Weight: 1.74 -->
+	</CraftedItem>
+	<CraftedItem id="AR_darshi_spear_3_t3" name="{=osa_ar_darshi_spear_3_t3}Darshi Weighted Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_2" Type="Blade" scale_factor="98"/>
+			<Piece id="spear_guard_13" Type="Guard"/>
+			<Piece id="spear_handle_13" Type="Handle" scale_factor="81"/>
+			<Piece id="spear_pommel_10" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 243 Weight: 2.07 -->
+	</CraftedItem>
+	<CraftedItem id="AR_darshi_spear_4_t4" name="{=osa_ar_darshi_spear_4_t4}Darshi Fine Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_2" Type="Blade" scale_factor="98"/>
+			<Piece id="spear_guard_12" Type="Guard"/>
+			<Piece id="spear_handle_8" Type="Handle" scale_factor="79"/>
+			<Piece id="spear_pommel_12" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 243 Weight: 0.9 -->
+	</CraftedItem>
+	<CraftedItem id="AR_darshi_spear_5_t4" name="{=osa_ar_darshi_spear_4_t4}Darshi Thamaskene Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_2" Type="Blade" scale_factor="101"/>
+			<Piece id="spear_banner_10" Type="Guard" scale_factor="107"/>
+			<Piece id="spear_handle_8" Type="Handle" scale_factor="79"/>
+			<Piece id="spear_pommel_12" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 243 Weight: 0.91 -->
+	</CraftedItem>
+	<CraftedItem id="AR_iltanlar_spear_1_t2" name="{=osa_ar_iltanlar_spear_1_t2}Steppe Light Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_15" Type="Blade" scale_factor="175"/>
+			<Piece id="spear_guard_2" Type="Guard"/>
+			<Piece id="AR_SI_spear_handle_d" Type="Handle" scale_factor="73"/>
+			<Piece id="spear_pommel_6" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 213 Weight: 1.61 -->
+	</CraftedItem>
+	<CraftedItem id="AR_iltanlar_spear_2_t3" name="{=osa_ar_iltanlar_spear_2_t3}Steppe Long Headed Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_9" Type="Blade" scale_factor="170"/>
+			<Piece id="spear_guard_13" Type="Guard"/>
+			<Piece id="spear_handle_13" Type="Handle" scale_factor="71"/>
+			<Piece id="spear_pommel_10" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 213 Weight: 1.83 -->
+	</CraftedItem>
+	<CraftedItem id="AR_iltanlar_spear_4_t4" name="{=osa_ar_iltanlar_spear_4_t4}Steppe Fine Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_42" Type="Blade" scale_factor="90"/>
+			<Piece id="spear_guard_12" Type="Guard"/>
+			<Piece id="spear_handle_8" Type="Handle" scale_factor="70"/>
+			<Piece id="spear_pommel_12" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 213 Weight: 0.68 -->
+	</CraftedItem>
+	<CraftedItem id="AR_iltanlar_spear_5_t4" name="{=osa_ar_iltanlar_spear_5_t4}Steppe Thamaskene Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_42" Type="Blade" scale_factor="89"/>
+			<Piece id="spear_banner_16" Type="Guard" scale_factor="140"/>
+			<Piece id="spear_handle_8" Type="Handle" scale_factor="74"/>
+			<Piece id="spear_pommel_12" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 213 Weight: 0.7 -->
+	</CraftedItem>
+	<CraftedItem id="AR_imperial_spear_t2" name="{=osa_ar_imperial_spear_t2}Imperial Light Spear" crafting_template="TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_3" Type="Blade" scale_factor="86"/>
+			<Piece id="spear_guard_15" Type="Guard"/>
+			<Piece id="AR_SI_spear_handle_b" Type="Handle" scale_factor="80"/>
+			<Piece id="spear_pommel_10" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 252 Weight: 1.91 -->
+	</CraftedItem>
+	<CraftedItem id="AR_imperial_spear_t3" name="{=osa_ar_imperial_spear_t3}Imperial Sturdy Spear" crafting_template="TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_1" Type="Blade" scale_factor="88"/>
+			<Piece id="spear_guard_7" Type="Guard"/>
+			<Piece id="AR_SI_spear_handle_a" Type="Handle" scale_factor="78"/>
+			<Piece id="spear_pommel_10" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 252 Weight: 1.55 -->
+	</CraftedItem>
+	<CraftedItem id="AR_imperial_spear_t4" name="{=osa_ar_imperial_spear_t4}Imperial Fine Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_4" Type="Blade" scale_factor="70"/>
+			<Piece id="spear_guard_7" Type="Guard" scale_factor="90"/>
+			<Piece id="AR_SI_spear_handle_a" Type="Handle" scale_factor="75"/>
+			<Piece id="spear_pommel_10" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 252 Weight: 1.63 -->
+	</CraftedItem>
+	<CraftedItem id="AR_imperial_spear_2_t4" name="{=osa_ar_imperial_spear_2_t4}Imperial Thamaskene Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_4" Type="Blade" scale_factor="70"/>
+			<Piece id="spear_banner_1" Type="Guard" scale_factor="70"/>
+			<Piece id="AR_SI_spear_handle_a" Type="Handle" scale_factor="72"/>
+			<Piece id="spear_pommel_10" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 252 Weight: 1.58 -->
+	</CraftedItem>
+	<CraftedItem id="AR_sturgia_spear_t5" name="{=osa_ar_sturgia_spear_t5}Northern Thamaskene Steel Leaf Spear" crafting_template="TwoHandedPolearm" culture="Culture.sturgia" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_13" Type="Blade" scale_factor="96"/>
+			<Piece id="spear_banner_1" Type="Guard" scale_factor="90"/>
+			<Piece id="AR_SI_spear_handle_e" Type="Handle" scale_factor="81"/>
+			<Piece id="spear_pommel_9" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 213 Weight: 1.64 -->
+	</CraftedItem>
+	<CraftedItem id="AR_western_spear_5_t4" name="{=osa_ar_western_spear_5_t4}Western Thamaskene Steel Spear" crafting_template="TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_6" Type="Blade" scale_factor="70"/>
+			<Piece id="spear_banner_1" Type="Guard" scale_factor="90"/>
+			<Piece id="spear_handle_21" Type="Handle" scale_factor="72"/>
+			<Piece id="spear_pommel_10" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 243 Weight: 0.71 -->
+	</CraftedItem>
+	<!-- 
+	Spears - Forked Spears 
+	-->
+	<CraftedItem id="AR_gladiator_fork_a" name="{=osa_ar_gladiator_fork_a}Gladiator Fork" crafting_template="TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_26" Type="Blade" scale_factor="115"/>
+			<Piece id="spear_guard_15" Type="Guard"/>
+			<Piece id="spear_handle_5" Type="Handle" scale_factor="65"/>
+			<Piece id="spear_pommel_6" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 0.91 -->
+	</CraftedItem>
+	<CraftedItem id="AR_gladiator_fork_b" name="{=osa_ar_gladiator_fork_b}Decorated Gladiator Fork" crafting_template="TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_25" Type="Blade" scale_factor="102"/>
+			<Piece id="spear_banner_1" Type="Guard" scale_factor="80"/>
+			<Piece id="AR_SI_spear_handle_e" Type="Handle" scale_factor="70"/>
+			<Piece id="spear_pommel_6" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 186 Weight: 1.78 -->
+	</CraftedItem>
+	<CraftedItem id="AR_gladiator_fork_c" name="{=osa_ar_gladiator_fork_c}Gladiator Trident" crafting_template="TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+		<Pieces>
+			<Piece id="AR_spear_blade_e" Type="Blade" scale_factor="100"/>
+			<Piece id="spear_guard_15" Type="Guard"/>
+			<Piece id="spear_handle_5" Type="Handle" scale_factor="64"/>
+			<Piece id="spear_pommel_6" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 191 Weight: 1.18 -->
+	</CraftedItem>
+	<CraftedItem id="AR_gladiator_fork_d" name="{=osa_ar_gladiator_fork_d}Decorated Gladiator Trident" crafting_template="TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+		<Pieces>
+			<Piece id="AR_spear_blade_e" Type="Blade" scale_factor="100"/>
+			<Piece id="spear_banner_1" Type="Guard" scale_factor="90"/>
+			<Piece id="AR_SI_spear_handle_e" Type="Handle" scale_factor="73"/>
+			<Piece id="spear_pommel_6" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 192 Weight: 1.97 -->
+	</CraftedItem>
+	<!-- 
+	Pikes 
+	-->
+	<CraftedItem id="AR_common_pike" name="{=osa_ar_common_pike}Common Pike" crafting_template="Pike" culture="Culture.vlandia" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_3" Type="Blade" scale_factor="91"/>
+			<Piece id="default_polearm_guard" Type="Guard"/>
+			<Piece id="spear_handle_7" Type="Handle" scale_factor="101"/>
+			<Piece id="default_polearm_pommel" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 350 Weight: 2.8 -->
+	</CraftedItem>
+	<CraftedItem id="AR_empire_polearm_1_t3" name="{=osa_ar_empire_polearm_1_t3}Light Menavlion" crafting_template="Pike" culture="Culture.empire" modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_14" Type="Blade" scale_factor="150"/>
+			<Piece id="default_polearm_guard" Type="Guard"/>
+			<Piece id="spear_handle_27" Type="Handle" scale_factor="90"/>
+			<Piece id="default_polearm_pommel" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 330 Weight: 1.24 -->
+	</CraftedItem>
+	<!-- 
+	Javelins 
+	-->
+	<CraftedItem id="AR_crude_javelin" name="{=osa_ar_crude_javelin}Crude Javelins" crafting_template="Javelin" culture="Culture.empire" modifier_group="spear_dart_throwing">
+		<Pieces>
+			<Piece id="spear_blade_9" Type="Blade" scale_factor="110"/>
+			<Piece id="default_polearm_guard" Type="Guard"/>
+			<Piece id="spear_handle_9" Type="Handle" scale_factor="110"/>
+			<Piece id="default_polearm_pommel" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 71 Weight: 0.46 -->
+	</CraftedItem>
+	<CraftedItem id="AR_crude_javelin_1_t2" name="{=osa_ar_crude_javelin_1_t2}Crude Wooden Javelins" crafting_template="Javelin" culture="Culture.neutral" modifier_group="spear_dart_throwing">
+		<Pieces>
+			<Piece id="AR_spear_blade_d" Type="Blade" scale_factor="102"/>
+			<Piece id="default_polearm_guard" Type="Guard"/>
+			<Piece id="spear_handle_2" Type="Handle" scale_factor="110"/>
+			<Piece id="default_polearm_pommel" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 70 Weight: 0.29 -->
+	</CraftedItem>
+	<CraftedItem id="AR_crude_javelin_2_t2" name="{=osa_ar_crude_javelin_2_t2}Crude Javelins" crafting_template="Javelin" culture="Culture.neutral" modifier_group="spear_dart_throwing">
+		<Pieces>
+			<Piece id="spear_blade_15" Type="Blade" scale_factor="90"/>
+			<Piece id="default_polearm_guard" Type="Guard"/>
+			<Piece id="spear_handle_12" Type="Handle" scale_factor="110"/>
+			<Piece id="default_polearm_pommel" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 70 Weight: 0.47 -->
+	</CraftedItem>
+	<CraftedItem id="AR_imperial_heavy_javelin_t2" name="{=osa_ar_imperial_heavy_javelin_t2}Light Lanceae" crafting_template="Javelin" culture="Culture.empire" modifier_group="spear_dart_throwing">
+		<Pieces>
+			<Piece id="spear_blade_1" Type="Blade"/>
+			<Piece id="spear_guard_7" Type="Guard"/>
+			<Piece id="spear_handle_10" Type="Handle" scale_factor="110"/>
+			<Piece id="spear_pommel_12" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 103 Weight: 1.11 -->
+	</CraftedItem>
+	<CraftedItem id="AR_imperial_heavy_javelin_t3" name="{=osa_ar_imperial_heavy_javelin_t3}Heavy Lanceae" crafting_template="Javelin" culture="Culture.empire" modifier_group="spear_dart_throwing">
+		<Pieces>
+			<Piece id="spear_blade_27" Type="Blade"/>
+			<Piece id="spear_guard_7" Type="Guard"/>
+			<Piece id="spear_handle_11" Type="Handle" scale_factor="100"/>
+			<Piece id="spear_pommel_12" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 126 Weight: 1.45 -->
+	</CraftedItem>
+	<!-- 
+	Throwing Spears 
+	-->
+	<CraftedItem id="AR_imperial_throwing_spear_t4" name="{=osa_ar_imperial_throwing_spear_t4}Spicula" crafting_template="Javelin" culture="Culture.empire" modifier_group="spear_dart_throwing">
+		<Pieces>
+			<Piece id="AR_spear_blade_a" Type="Blade" scale_factor="100"/>
+			<Piece id="spear_guard_7" Type="Guard" scale_factor="90"/>
+			<Piece id="spear_handle_10" Type="Handle" scale_factor="160"/>
+			<Piece id="spear_pommel_10" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 102 Weight: 0.54 -->
+	</CraftedItem>
+	<CraftedItem id="AR_vlandian_throwing_spear_t4" name="{=osa_ar_vlandian_throwing_spear_t4}Angons" crafting_template="Javelin" culture="Culture.vlandia" modifier_group="spear_dart_throwing">
+		<Pieces>
+			<Piece id="AR_spear_blade_c" Type="Blade" scale_factor="160"/>
+			<Piece id="spear_guard_10" Type="Guard"/>
+			<Piece id="spear_handle_11" Type="Handle" scale_factor="100"/>
+			<Piece id="spear_pommel_12" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 120 Weight: 0.78 -->
+	</CraftedItem>
+	<CraftedItem id="AR_vlandian_throwing_spear_2_t4" name="{=osa_ar_vlandian_throwing_spear_2_t4}Heavy Angons" crafting_template="Javelin" culture="Culture.vlandia" modifier_group="spear_dart_throwing">
+		<Pieces>
+			<Piece id="AR_spear_blade_b" Type="Blade" scale_factor="100"/>
+			<Piece id="spear_guard_3" Type="Guard"/>
+			<Piece id="spear_handle_11" Type="Handle" scale_factor="120"/>
+			<Piece id="spear_pommel_12" Type="Pommel"/>
+		</Pieces>
+		<!-- Length: 119 Weight: 0.85 -->
+	</CraftedItem>
+</Items>
