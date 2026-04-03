@@ -14,7 +14,7 @@ You will be using the information provided to make a troop overhaul for Mount & 
       - [Mod Files](https://github.com/Maelstrom8/Super-Grok-Troop-Overhaul/tree/main/Zweihander%20Collection)
   
 3) Troop Tiers Plus
-      - [Nexus Mod URL]
+      - [Nexus Mod URL](https://www.nexusmods.com/mountandblade2bannerlord/mods/6634)
       - Does not have uploaded files, it is a DLL mod. 
 
 4) Adonnay's Exotic Weaponry
