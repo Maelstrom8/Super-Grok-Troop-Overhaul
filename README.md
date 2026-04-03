@@ -3,7 +3,7 @@
 You will be using the information provided to make a troop overhaul for Mount & Blade II: Bannerlord.
 
 ### Resources
-> The following resources will be used in some way in the creation of this troop tree mod. Each mod will contain a link to their Nexus Mod page and their mod files will be uploaded to this Github. Learn them. Study them. Understand them. Mod Files means relevant mod files, not all of them.
+> The following resources will be used in some way in the creation of this troop tree mod. I will be linking to mod pages, and uploading their files to my github page. The base game files are also provided as a backup. Please refer to them, learn them, understand them. It is important.
 
 1) Kult of the Kallipygos
       - [Nexus Mod Page](https://www.nexusmods.com/mountandblade2bannerlord/mods/4486)
@@ -17,8 +17,20 @@ You will be using the information provided to make a troop overhaul for Mount & 
       - [Nexus Mod URL]
       - Does not have uploaded files, it is a DLL mod. 
 
-4) 
-    
+4) Adonnay's Exotic Weaponry
+      - [Nexus Mod URL](https://www.nexusmods.com/mountandblade2bannerlord/mods/2620?tab=description)
+      - [Mod Files](
+
+5) Open Source Weaponry
+      - [Nexus Mod URL](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829)
+      - [Mod Files](x)
+  
+6) Base Game Files
+      - [Base Game Files](x)
+
+## Instructions
+
+I'm going to paste an NPCCharacter template and explain everything you need to know about it, what they should contain, what they should not.
 
 
 
