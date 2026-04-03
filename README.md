@@ -158,9 +158,7 @@ Don't get started yet! I'm going to paste NPCCharacter templates and explain eve
 
 `default_group` is the default_group. Acceptable values are "Infantry", "Ranged", "Cavalry", and "HorseArcher".
 
-`level` is the level of the troop. It determines their tier. The base game uses these patterns for level: 1, 6, 11, 16, 21, 26, 31. Each tier
-            - Level 1 = Tier 0. Level 6 = Tier 1. Level 11 = Tier 2. Level 16 = Tier 3, etc. The game uses increments of 5. It also uses these EXACT levels - do not deviate from it.
-            - Troop Tiers Plus pushes Tiers to 20. We're only going to go to half. So a Tier 10 troop would be level 51. A Tier 9 troop would be 46. 
+`level` is the level of the troop. It determines their tier. The base game uses these patterns for level: 1, 6, 11, 16, 21, 26, 31. Level 1 = Tier 0. Level 6 = Tier 1. Level 11 = Tier 2. Level 16 = Tier 3, etc. The game uses increments of 5. It also uses these EXACT levels - do not deviate from it. Troop Tiers Plus pushes Tiers to 20. We're only going to go to half. So a Tier 10 troop would be level 51. A Tier 9 troop would be 46. 
             
 `name` is the name of the troop. You can make this whatever you want.
 
